@@ -1,0 +1,18 @@
+Resumo do projeto:
+
+Criação de um MVP para entender e aprender sobre arquitetura;
+
+O sistema possuirá:
+    - Cadastramento dos veículos (moto, carro)
+    - Registrar o check-in (entrada dos veículos no estacionamento)
+    - Registrar o check-out (saída dos veículos no estacionamento)
+    - relatórios por data
+    - dashboard com gráficos - resumo completo - painel de controle
+    - relatórios por tipo de veículo 
+    - relatório de faturamento
+    - exportar relatório em CSV - formato para excel
+
+A arquitetura será feita com:
+REACT -> client side application  -> frontedn
+NODEJS -> api -> backend
+SQLITE -> database -> backend
